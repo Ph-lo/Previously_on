@@ -1,0 +1,57 @@
+#episode-banner {
+    margin: -80px auto auto auto;
+    width: 100%;
+    z-index: 50;
+}
+#episode-banner-text {
+    background-color: rgba(240, 248, 255, 0.068);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    z-index: 100;
+}
+#episode-banner-text h2 {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+#episode-banner-text h1 {
+    margin-bottom: 5px;
+}
+.episode-cards {
+    margin-bottom: 35px;
+}
+
+.episodes-button-div {
+    display: flex;
+}
+.episodes-button-div img {
+    width: 22px;
+    height: 22px;
+    margin-right: 20px;
+    margin-top: 3px;
+    filter: invert(61%) sepia(38%) saturate(1635%) hue-rotate(196deg) brightness(91%) contrast(96%) grayscale(50%);
+    cursor: pointer;
+}
+.episodes-button-div img:hover {
+    margin-top: 1px; 
+}
+.episodes-button-div img:active {
+    margin-top: 3px; 
+}
+
+.unwatche-btn {
+    width: 22px;
+    height: 22px;
+    border-radius: 50px;
+    margin-right: 20px;
+    margin-top: 3px;
+    border: 2px solid #346a9e;
+}
+
+#no-episodes {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 150px;
+}

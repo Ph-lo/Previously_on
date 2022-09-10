@@ -1,0 +1,29 @@
+.remove-favorite-container {
+    position: relative;
+}
+
+#remove-favorite-btn {
+    margin-left: 97%;
+    text-align: right;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    background-color: rgba(94, 99, 99, 0.589);
+    border-radius: 50px;
+}
+#remove-favorite-btn:hover {
+    background-color: rgba(106, 112, 112, 0.699);
+    box-shadow: -1px 1px 3px rgba(0, 0, 0, 0.349);
+}
+
+#remove-favorite-btn span {
+    font-weight: bold;
+}
+
+.watched-episode-link {
+    position: absolute;
+    margin-left: 250px;
+    font-size: 18px;
+    text-decoration: underline;
+    margin-top: -70px;
+}

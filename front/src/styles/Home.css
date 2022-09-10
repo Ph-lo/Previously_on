@@ -1,0 +1,20 @@
+#home-title {
+    position: absolute;
+  
+    margin-top: -90px;
+}
+.show-descriptions {
+    max-height: 50px;
+    overflow: hidden;
+}
+.show-descriptions-dots {
+    margin-top: -25px;
+    margin-bottom: 5px;
+}
+.pointer {
+    cursor: pointer;
+}
+
+.add-favorite:hover {
+    color: rgb(189, 128, 128);
+}

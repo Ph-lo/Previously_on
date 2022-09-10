@@ -1,0 +1,26 @@
+#beta-login {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+#beta-login p {
+    margin-left: 20px;
+}
+
+#signin-head {
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    width: 70px;
+    height: 70px;
+    margin-top: -15px;
+}
+
+.logo-betaseries {
+    height: 25px;
+    width: 25px;
+    margin-bottom: -26px;
+    margin-top: 2px;
+}

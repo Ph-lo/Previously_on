@@ -1,0 +1,40 @@
+#no-friend-title {
+    text-align: center;
+}
+
+.container-friends {
+    max-width: 130px;
+    justify-content: space-between;
+}
+
+.container-friends p {
+    cursor: pointer;
+}
+
+.arrow-friends {
+    display: inline;
+}
+
+#blocked-friend-link {
+    cursor: pointer;
+    text-align: left;
+    width: fit-content;
+}
+
+#invitation-reveived {
+    width: 70%;
+    margin: auto;
+}
+
+#invites-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+#invites-div img {
+    cursor: pointer;
+}
+
+.requests-img-btn {
+    cursor: pointer;
+}
