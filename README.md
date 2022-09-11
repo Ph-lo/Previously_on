@@ -15,10 +15,10 @@
 TV-shows manager, linked to the user's betaseries account via Oauth login
 
 <p float="left" >
-  <img height="220px" width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/Screenshot%202022-09-10%20at%2021-43-38%20React%20App.png" />
-  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/Screenshot%202022-09-10%20at%2021-37-16%20React%20App.png" />
-  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/Screenshot%202022-09-10%20at%2021-40-43%20React%20App.png" />
-  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/Screenshot%202022-09-10%20at%2021-40-54%20React%20App.png" />
+  <img height="220px" width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/screen1.png" />
+  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/screen2.png" />
+  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/screen3.png" />
+  <img width="450px" src="https://github.com/Ph-lo/Previously_on/blob/main/screen4.png" />
 </p>
 
 
