@@ -45,5 +45,5 @@ The user can:
 No search implemented
 
 ## Links
-For more informations about the API used for this project see the [API doc](https://www.betaseries.com/en/api/)<br />
+For more informations about the API used for this project see the [Betaseries API doc](https://www.betaseries.com/en/api/)<br />
 [Docker](https://docs.docker.com/get-started/)
